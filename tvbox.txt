@@ -1,4 +1,4 @@
-//此多仓接口列表搜集自https://tvbox.wpcoder.cn/user.php
+//此多仓接口列表搜集自wpcoder
 {
   "urls": [
 {
