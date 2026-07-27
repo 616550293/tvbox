@@ -1,0 +1,13 @@
+//此多仓接口列表搜集自wpcoder
+{
+  "storeHouse": [
+{
+"sourceName": "Ke多线",
+"sourceUrl": "https://raw.githubusercontent.com/616550293/tvbox/refs/heads/main/ke.txt"
+},
+{
+"sourceName": "装哥多线",
+"sourceUrl": "https://a.nxog.top/apia?id=2"
+}
+  ]
+}
