@@ -16,11 +16,6 @@
 "url": "https://qist.wyfc.qzz.io/xiaosa/api.json",
 "name": "潇洒"
 },
-//85
-{
-"url": "http://tv.nxog.top/m/",
-"name": "装哥"
-},
 //77
 {
 "url": "https://play.iptv365.org/欧歌/api.json",
