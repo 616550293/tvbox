@@ -23,17 +23,17 @@
 },
 //77
 {
-"url": "https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3",
+"url": "https://play.iptv365.org/欧歌/api.json",
 "name": "欧歌"
 },
 //72
 {
-"url": "https://6800.kstore.vip/fish.json",
+"url": "http://摸鱼儿.cc",
 "name": "摸鱼儿"
 },
 //57
 {
-"url": "http://tvbox.王二小放牛娃.top",
+"url": "https://9280.kstore.vip/newwex.json",
 "name": "王二小"
 },
 //44
@@ -67,6 +67,10 @@
 "name": "宝盒"
 },
 //140
+{
+"url": "https://w.junce.dpdns.org/fm.gif",
+"name": "肥猫"
+},
 {
 "url": "https://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
 "name": "神秘大佬"
